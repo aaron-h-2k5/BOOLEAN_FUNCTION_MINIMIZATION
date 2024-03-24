@@ -16,8 +16,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
-**Logic Diagram**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -62,16 +60,19 @@ and(u,ydash,z);
 or(f2,s,t,u);
 endmodule
 ```
+## Truth Table:
+![316294107-a6b8101c-bd3c-4b64-bc4a-f4a8962ac13a](https://github.com/aaron-h-2k5/BOOLEAN_FUNCTION_MINIMIZATION/assets/144250957/9d58f73d-24b1-4c4d-89eb-f2fd33b20b9d)
 
-**RTL realization**
+![316294144-348e89c8-b4d6-4c9e-8783-541ac0829105](https://github.com/aaron-h-2k5/BOOLEAN_FUNCTION_MINIMIZATION/assets/144250957/89a5b37e-718b-44ec-806f-153c2772eca4)
 
-**Output:**
 
-**RTL**
+## RTL realization
 
-**Timing Diagram**
+## Output:
 
-**Result:**
+
+
+## Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 

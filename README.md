@@ -67,9 +67,11 @@ endmodule
 
 
 ## RTL realization
+![WhatsApp Image 2024-03-24 at 19 42 13](https://github.com/aaron-h-2k5/BOOLEAN_FUNCTION_MINIMIZATION/assets/144250957/14088aea-a05e-4c94-9d99-70855268bb7b)
 
 ## Output:
 
+![WhatsApp Image 2024-03-24 at 19 52 51](https://github.com/aaron-h-2k5/BOOLEAN_FUNCTION_MINIMIZATION/assets/144250957/8c4ea2a1-dcff-4acb-bd42-7dc71fd58c9c)
 
 
 ## Result:
